@@ -1,7 +1,5 @@
 # <p align="center">Project 2: ETL
 ## Data Analytics mini project to build an ETL (Extract, Transform, and Load) pipeline for fictitious crowdfunding data
-
-analyze fictitious employee .csv data using SQL
 ### Overview
 1. Extract data from multiple sources
 2. Transform or clean-up and restructure the data into a desired form

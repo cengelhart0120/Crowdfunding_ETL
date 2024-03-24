@@ -26,7 +26,7 @@ analyze fictitious employee .csv data using SQL
 - Inspect the .csv files and generate an ERD to display the relationships between the files
     - (If interested in how the below ERD was generated, open quickdbd_syntax.txt file, and copy & paste the text into the QuickDBD app's text pane)
 <p align="center">
-  <img width="900" src="" alt="ERD of .csv data relationships">
+  <img width="900" src="https://github.com/cengelhart0120/Crowdfunding_ETL/blob/main/crowdfunding_db_ERD.png" alt="ERD of .csv data relationships">
 </p>
 
 #### crowdfunding_db_schema.sql

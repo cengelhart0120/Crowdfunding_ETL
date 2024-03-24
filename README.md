@@ -29,6 +29,7 @@ analyze fictitious employee .csv data using SQL
   <img width="450" src="https://github.com/cengelhart0120/Crowdfunding_ETL/blob/main/crowdfunding_db_ERD.png" alt="ERD of .csv data relationships">
 </p>
 
+    - (Note that `goal` and `pledged` are listed as **INT** in the ERD but actually need to be created as **FLOAT** in pgAdmin 4)
 #### crowdfunding_db_schema.sql
 - Open pgAdmin, create/connect to a "local" server, then create a new database named `crowdfunding_db` to house the tables and their data
 - Open the query tool in the newly-created database, then open crowdfunding_db_schema.sql in the query window
